@@ -8,7 +8,7 @@ on:
         docker_image:
           description: 'The Docker image to scan'
           required: true
-          default: 'alpine:latest'
+          default: 'xhris12/Docker-Scan-Project-Cyber:latest'
 
 # env:
 #   REGISTRY: ghcr.io
